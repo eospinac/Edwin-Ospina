@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/eospinac/demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Haga clic [aquí](ArchivoSitio.ipynb)
+Descargue el archivo [aquí](ArchivoSitio.ipynb)
 
 Abra el [sitio](http://nbviewer.jupyter.org/github/eospinac/demo/blob/master/ArchivoSitio.ipynb)
 
