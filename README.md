@@ -6,7 +6,7 @@ Descargue el archivo [aquí](ArchivoSitio.ipynb)
 
 Abra el [sitio](http://nbviewer.jupyter.org/github/eospinac/demo/blob/master/ArchivoSitio.ipynb)
 
-jupyter nbconvert --to html ArchivoSitio.ipynb
+Vea el archivo [aquí](ArchivoSitio.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
